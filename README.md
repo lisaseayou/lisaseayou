@@ -1,7 +1,7 @@
 ![Cover](https://github.com/lisaseayou/lisaseayou/blob/main/Lisa%20machy%20(3).png)
 
 
-🤙🏼 Welcome on my GitHub ! 🤙🏼
+🤙🏼  Welcome on my GitHub ! 🤙🏼
 
 I'm developping in JAVASCRIPT 🚀 more specially in REACT, NEXT and NODE. 
 
