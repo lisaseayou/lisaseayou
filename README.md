@@ -1,3 +1,6 @@
+![Cover]()
+
+
 🤙🏼 Welcome on my GitHub ! 🤙🏼
 
 I'm developping in JAVASCRIPT 🚀 more specially in REACT, NEXT and NODE. 
