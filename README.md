@@ -1,4 +1,4 @@
-![Cover](Lisa machy (3).png)
+![Cover](https://github.com/lisaseayou/lisaseayou/blob/main/Lisa%20machy%20(3).png)
 
 
 🤙🏼 Welcome on my GitHub ! 🤙🏼
