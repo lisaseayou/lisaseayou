@@ -1,4 +1,4 @@
-![Cover]()
+![Cover](Lisa machy (3).png)
 
 
 🤙🏼 Welcome on my GitHub ! 🤙🏼
